@@ -10,5 +10,9 @@ Online Piano Simple and Easy.
 ## about:
 I used HTML5 audio and javascript to make key sounds
 
+## How to Use It:
+You can play music using mouse or keyboard
+ [S, D, F, G, H, K, L, ;]
+ 
 # screen shot
 <img src='app.JPG' alt='app image'>

@@ -21,5 +21,8 @@ You can play music using mouse or keyboard
 4. added folder base contains piano sounds with the right order (c3-e4)
 
  
-# screen shot
+## screenshot 'First Version'
 <img src='app.JPG' alt='app image'>
+
+## screenshot 'Last Version'
+<img src='Capture.JPG' alt='app image'>
